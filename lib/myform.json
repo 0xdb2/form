@@ -1,0 +1,31 @@
+/****
+{
+"array": [
+    1,
+    2,
+    3
+  ],
+  "boolean": true,
+  "null": null,
+  "number": 123,
+  "object": {
+    "a": "b",
+    "c": "d"
+  },
+  "string": "Hello World"
+ }
+***/  
+{
+    "forminfo": 
+    {
+        "formName": "myform", /*bla-bla*/
+        "pageSize": "2",
+        "lineSize": "2"
+    }
+    "lines": 
+    [
+        {"fix":"line1"}, 
+        ["line2"],
+        "1234567890",
+    ]
+}
